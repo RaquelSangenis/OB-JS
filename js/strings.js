@@ -1,0 +1,9 @@
+const nombre = "Raquel"
+const apellido = "Sangenis"
+const estudiante = nombre + '' + apellido;
+const estudianteMinus = estudiante.toLowerCase()
+const numero = estudiante.length()
+const primerLetra = nombre.indexOf()
+const ultimaLetra = nombre.lastIndexOf()
+const eliminarEspacios = estudiante.prototype.trim()
+const contiene = estudiante.includes(nombre)
