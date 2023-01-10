@@ -1,9 +1,11 @@
-const nombre = "Raquel"
-const apellido = "Sangenis"
-const estudiante = nombre + '' + apellido;
-const estudianteMinus = estudiante.toLowerCase()
-const numero = estudiante.length()
-const primerLetra = nombre.indexOf()
-const ultimaLetra = nombre.lastIndexOf()
-const eliminarEspacios = estudiante.prototype.trim()
-const contiene = estudiante.includes(nombre)
+let nombre = "Raquel";
+let apellido = "Sangenis";
+let estudiante = nombre + ' ' + apellido;
+let estudianteMinus = estudiante.toLowerCase();
+let numero = estudiante.length;
+let primerLetra = nombre.indexOf();
+let ultimaLetra = nombre.lastIndexOf();
+let eliminarEspacios = estudiante.trim;
+let contiene = estudiante.includes(nombre);
+
+console.log(estudiante)

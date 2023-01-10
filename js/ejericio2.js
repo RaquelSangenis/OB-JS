@@ -1,4 +1,4 @@
-const nombre = "Raquel";
+const nombre1 = "Raquel";
 const edad = 34;
 const desarrolladora = true;
 const fechaNacimiento = new Date("1988-04-30");
